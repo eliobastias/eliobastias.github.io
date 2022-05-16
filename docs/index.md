@@ -10,9 +10,6 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 
 - "..promuevo la creación de arquitecturas abiertas, porque considero que son la clave para desarrollar sistemas que funcionen conjuntamente y creen valor para su negocios.."
 
-
-### Stack que manejo
-
 #### Stack gestión infraestructura:
 	+ ansible open source
 	+ docker open source
@@ -40,6 +37,8 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 	+ Agiles
 	+ Scrum
 	+ Gestión de proyectos 
+
+| Contacto: elio.bastias@gmail.com
 
 
 [Link](url) and ![Image](src)
