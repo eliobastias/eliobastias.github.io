@@ -2,37 +2,38 @@
 
 Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y telecomunicaciones #OpenSource.-
 
-- "..promuevo la creación de arquitecturas abiertas, porque considera que son la clave para desarrollar sistemas que funcionen conjuntamente .."
+- "..promuevo la creación de arquitecturas abiertas, porque considero que son la clave para desarrollar sistemas que funcionen conjuntamente y creen valor para su negocios.."
 
 
-### Markdown
+### Stack que manejo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Stack gestión infraestructura:
+	+ ansible open source
+	+ docker open source
+	+ kubernetes - knative
+  + git-flow 
 
-```markdown
-Syntax highlighted code block
+#### Stack Cloud :
+	*GCP 
+	*AWS
 
-# Header 1
-## Header 2
-### Header 3
+#### Stack Development:
+	+ Python - Flask para los diferentes script y microservicios
+	+ Flutter/Dart/Kotlin  - stack para manejar los desarrollo de mobiles
+	+ Golang -  para los diferentes script y microservicios
+	+ gRPC - no colocar hasta tener claro su uso
 
-- Bulleted
-- List
+#### Stack DBA:
+	+ Postgres
+	+ MySQL/MariaDB
+	+ MongoDB 
 
-1. Numbered
-2. List
+Realizar desarrollos puntuales conforme los stack antes mencionados.
+Realizar capacitaciones sobre metodologías basadas en DevoOps-
+	+ Agiles
+	+ Scrum
+	+ Gestión de proyectos 
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eliobastias/eliobastias.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/catees/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
