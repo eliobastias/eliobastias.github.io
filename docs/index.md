@@ -11,11 +11,11 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 	+ ansible open source
 	+ docker open source
 	+ kubernetes - knative
-  + git-flow 
+	+ git-flow 
 
 #### Stack Cloud :
-	*GCP 
-	*AWS
+	+ GCP 
+	+ AWS
 
 #### Stack Development:
 	+ Python - Flask para los diferentes script y microservicios
@@ -28,8 +28,9 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 	+ MySQL/MariaDB
 	+ MongoDB 
 
-Realizar desarrollos puntuales conforme los stack antes mencionados.
-Realizar capacitaciones sobre metodologías basadas en DevoOps-
+#### Realizar desarrollos puntuales conforme los stack antes mencionados.
+
+#### Realizar capacitaciones sobre metodologías basadas en DevoOps-
 	+ Agiles
 	+ Scrum
 	+ Gestión de proyectos 
