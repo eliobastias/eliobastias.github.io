@@ -1,6 +1,9 @@
 ## Bienvenidos 
 
-Mi nombre es Elio Bastias, soy un entusiaste de tecnologías en comunicacioens y telecomunicaciones #OpenSource.-
+Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y telecomunicaciones #OpenSource.-
+
+- "..promuevo la creación de arquitecturas abiertas, porque considera que son la clave para desarrollar sistemas que funcionen conjuntamente .."
+
 
 ### Markdown
 
@@ -32,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/catees/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
