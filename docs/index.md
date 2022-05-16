@@ -13,24 +13,24 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 	+ kubernetes - knative
 	+ git-flow 
 
-#### Stack Cloud :
+#### Stack Cloud:
 	+ GCP 
 	+ AWS
 
 #### Stack Development:
-	+ Python - Flask para los diferentes script y microservicios
-	+ Flutter/Dart/Kotlin  - stack para manejar los desarrollo de mobiles
-	+ Golang -  para los diferentes script y microservicios
-	+ gRPC - no colocar hasta tener claro su uso
+	+ Python - Flask - Django 
+	+ Flutter- Dart - Kotlin
+	+ Golang
+	+ gRPC
 
 #### Stack DBA:
 	+ Postgres
 	+ MySQL/MariaDB
 	+ MongoDB 
 
-#### Realizar desarrollos puntuales conforme los stack antes mencionados.
+#### Realizo desarrollos puntuales conforme los stack antes mencionados.
 
-#### Realizar capacitaciones sobre metodologías basadas en DevoOps-
+#### Realizo capacitaciones sobre metodologías basadas en DevoOps-
 	+ Agiles
 	+ Scrum
 	+ Gestión de proyectos 
