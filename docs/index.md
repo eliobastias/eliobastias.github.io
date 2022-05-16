@@ -39,7 +39,7 @@ Mi nombre es Elio Bastias, soy un entusiasta de tecnologías en comunicaciones y
 	+ Gestión de proyectos 
 
 | Contacto: elio.bastias@gmail.com
-
+| Open Source Enthusiast | Love to write elegant code | Gopher, Python | DevOps | DBA
 
 [Link](url) and ![Image](src)
 
