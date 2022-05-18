@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Open Source Enthusiast | Love to write elegant code | Gopher, Python | DevOps | DBA 
+email: elio.bastias@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
-
+twitter_username: eliobastias
+github_username: eliobastias
+linkedin_username: eliobastias
 # Build settings
 markdown: kramdown
